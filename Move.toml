@@ -1,0 +1,16 @@
+[package]
+name = "Achievement_System"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ Likhith="0xa34f5715b02d1f2ad0ca944997aaa3af31cca66c8a15e9a831d625a1a73d78a1"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
